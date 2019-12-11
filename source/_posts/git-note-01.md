@@ -15,4 +15,35 @@ tags: [git]
 
 <!-- more -->
 
-软件哦按
+## 教程
+
+[廖雪峰的git教程](https://www.liaoxuefeng.com/wiki/896043488029600)
+
+## Q&A
+
+### 1.为什么我使用的git工具是个黑框？
+
+你使用的`git`工具是不是类似于这种的?
+
+![git](http://rtzrabbit.nitmoon.com/809df1ced22a6acb86aeeaa320ae4cb8.png)
+
+emmm，作为一名开发者，你要慢慢的接受和熟悉这种软件风格。这是`CLI (command-line interface)`命令行接口。和你以前使用的QQ，微信啊，都不一样。它就是一个“黑乎乎”的窗口，你输入命令，它显示执行的状态和结果，就这样！以前使用的软件是`GUI (Graphical User Interface) `图形用户界面接口。
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
